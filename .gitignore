@@ -1,0 +1,12 @@
+# 操作系统生成的文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器临时文件
+*.tmp
+*~
+*.swp
+.obsidian/
+.vscode/
+.idea/
